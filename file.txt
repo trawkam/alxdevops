@@ -1,6 +1,3 @@
 informacja z pliku
-<<<<<<< HEAD
 przerwa od 12:30 do?
-=======
 przerwa do 14:15
->>>>>>> a87079277536c1a5c11e6e4ba0ee1f2922197744
